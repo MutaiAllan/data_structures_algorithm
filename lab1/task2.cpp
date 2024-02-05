@@ -26,7 +26,6 @@ struct Grade {
 };
 
 
-// student details
 // Student details
 struct Student {
     char reg_number[20];
