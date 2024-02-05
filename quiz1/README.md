@@ -24,7 +24,9 @@ return false if every element is distinct.
 4. Question Four (4) - Single Number
 Given a non-empty array of integers nums, every element appears twice except for one. Find
 that single one.
-HINT:
+
+
+## HINT:
 1. Always define your inputs, and outputs.
 2. Try to start with the simplest solution you can think about, then
 refine slowly ---- e.g. you can ask questions like: How can I reduce
